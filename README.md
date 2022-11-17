@@ -22,7 +22,7 @@ html{
   background-color: #000;
 }
 
-7.- Cerramos la ventana
-8.- Morimos como eternos novatos :)
-
+7.- Cerramos la ventana  
+8.- Morimos como eternos novatos :)  
+  
 NOTA: al cerrar y abrir nuevamente el navegador es necesario volver a a abrir y cerrar Stylebot para que se aplique la solución nuevamente.
